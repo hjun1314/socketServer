@@ -30,7 +30,7 @@
 }
 
 - (void)showMessageWithStr:(NSString *)str
-{
+{    ///再一次测试sourcetree
     self.showContentMessageTV.text = [self.showContentMessageTV.text stringByAppendingFormat:@"%@\n",str];
 }
 
